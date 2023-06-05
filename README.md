@@ -1,5 +1,5 @@
 # Instacart Grocery Basket Analysis using Python
-![Instacart Logo]([./Instcart.jpeg](https://www.google.com/search?q=instacart+logo&sxsrf=APwXEdeBWheRFQbfd3PBNd0Uwi329f8Dbw:1686003966047&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjjr_Gblq3_AhVC8rsIHYY0BTcQ_AUoAXoECAMQAw&biw=1218&bih=592&dpr=1.5#imgrc=Z-UnIyIq-VSauM)) 
+![InstacartLogo](https://techcrunch.com/wp-content/uploads/2017/04/instacart58277.jpg)
 
 ## About the Company:
 Instacart is an American delivery company that operates a grocery delivery and pick-up service in the United States and Canada. The company offers its services via a website and mobile app. The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.
